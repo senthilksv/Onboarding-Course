@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Tools Walkthrough",
+        "code": "TWT",
+        "description": "Tools Walkthrough",
+        "type": "Class room session",
+        "catagory": "Technical",
+        "subCatagory": "Priority1",
+        "reference": "Priority1",
+        "status": "InProgress",
+        "completionPercentage": 20
+    },
+    {
+        "id": 2,
+        "title": "New Business Processing",
+        "code": "BDINBD",
+        "description": "New Business Processing",
+        "type": "Self - Elearning",
+        "catagory": "Functional",
+        "subCatagory": "Priority1",
+        "reference": "Priority1",
+        "status": "NotStarted",
+        "completionPercentage": 0
+    },
+    {
+        "id": 3,
+        "title": "Data Security",
+        "code": "DS",
+        "description": "Data Security",
+        "type": "Self - Elearning",
+        "catagory": "Functional",
+        "subCatagory": "Priority1",
+        "reference": "Priority1",
+        "status": "NotStarted",
+        "completionPercentage": 0
+    }
+]
